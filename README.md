@@ -29,6 +29,24 @@ The content is based on my summer research internship at the Nanomaterials and N
 
 ---
 
+## Educational simulation of ODMR spectra
+
+This repository also includes an educational Python simulation of the ODMR spectrum of an NV center in diamond.
+
+The program allows the user to:
+
+- Introduce an external magnetic field.
+- Simulate the ODMR spectrum.
+- Observe the Zeeman splitting.
+- Calculate the magnetic field from the resonance frequencies.
+- Visualise the results graphically.
+
+### Example
+
+![ODMR simulation](odmr_con_campo_magnético.png)
+
+---
+
 ## Research Progress
 
 This repository is actively updated throughout my research intership as I continue learning and documenting new concepts and techniques.
