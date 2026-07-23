@@ -14,6 +14,10 @@ This repository includes a complete introductory manual on quantum sensing based
 
 The manual covers the physical principles of NV centers, ODMR, microwave instrumentation, radiofrequency generators and spectrum analyzers, serving as a practical introduction to NV-based quantum sensing.
 
+The complete study manual is available in the `docs` folder:
+
+- [📜 Quantum Sensing Study Manual (PDF)](docs/Quantum_Sensing_Study_Manual.pdf)
+
 ---
 
 ## Overview
