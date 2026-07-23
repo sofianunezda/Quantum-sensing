@@ -2,6 +2,10 @@
 
 Educational notes and Python simulations on nitrogen-vacancy (NV) centers in diamond.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-v1.0.0-orange)
+
 ---
 
 ## 📖 Study Manual
