@@ -17,6 +17,8 @@ las dos frecuencias de resonancia.
 
 Autora: Sofía Núñez de Andrés
 Año: 2026
+Versión: 1.0
+License: Educational use
 '''
 
 import numpy as np                                             # librería 1: nos permite trabajar con vectores / cálculos numéricos # type: ignore
